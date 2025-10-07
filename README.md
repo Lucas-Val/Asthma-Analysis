@@ -1,4 +1,4 @@
-# Asthma Risk Analysis (R)
+# Asthma Risk Analysis (Still underway) 
 
 This project explores environmental and demographic factors influencing asthma cases using statistical and machine learning models in R.  
 It demonstrates a full end-to-end data science workflow — from data cleaning and exploration to predictive modelling and interpretation.
