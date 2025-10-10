@@ -3,7 +3,7 @@
 This project explores environmental and demographic factors influencing asthma cases using statistical and machine learning models in R.  
 It demonstrates a full end-to-end data science workflow — from data cleaning and exploration to predictive modelling and interpretation.
 
----
+
 
 ## Overview
 
@@ -16,7 +16,7 @@ Simulated environmental and demographic data including:
 - Weather metrics (precipitation, humidity, windspeed)
 - Demographic factors (age group, gender, postcode)
 
----
+
 
 ## Methods
 
@@ -29,7 +29,6 @@ Simulated environmental and demographic data including:
 | 5 | **Unsupervised Learning (Clustering)** | Detect hidden patterns among environmental conditions |
 | 6 | **Model Evaluation** | Compare accuracy, interpretability, and generalisation performance |
 
----
 
 ## Final Logistic Regression Model
 
