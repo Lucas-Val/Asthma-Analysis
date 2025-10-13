@@ -39,7 +39,6 @@ Simulated environmental and demographic data including:
 - **Accuracy:** 71.9% (on test data)  
 - **Interpretation:** Asthma likelihood increases with higher CO and rainfall, and decreases with higher O₃ levels.
 
----
 
 ## Decision Tree Summary
 
@@ -48,8 +47,6 @@ Simulated environmental and demographic data including:
 - **Interpretation:**  
   - Low O₃ (<12.5) + low vapour pressure → high asthma risk  
   - Higher O₃ and lower precipitation → lower risk group
-
----
 
 ## Tools & Libraries
 
