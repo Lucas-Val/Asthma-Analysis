@@ -54,7 +54,4 @@ Simulated environmental and demographic data including:
 - **Libraries:** `tidyverse`, `ISLR`, `tree`, `e1071`, `caret`  
 - **Environment:** RStudio / Jupyter (R kernel)
 
----
-
-## Folder Structure
-
+Jupyter notebook to uploaded soon. 
