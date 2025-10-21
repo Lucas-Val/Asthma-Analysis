@@ -48,8 +48,6 @@ Simulated environmental and demographic data including:
   - Low O₃ (<12.5) + low vapour pressure → high asthma risk  
   - Higher O₃ and lower precipitation → lower risk group
 
-## Tools & Libraries
-
 - **Language:** R  
 - **Libraries:** `tidyverse`, `ISLR`, `tree`, `e1071`, `caret`  
 - **Environment:** RStudio / Jupyter (R kernel)
